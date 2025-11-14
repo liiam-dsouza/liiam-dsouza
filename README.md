@@ -14,25 +14,27 @@ On my GitHub you'll find repos for some of the smaller side projects I'm working
 
 Follow me on [Instagram](https://instagram.com/liiam_dsouza) and [LinkedIn](https://www.linkedin.com/in/liiam-dsouza/) to see what I'm working on, or send me a message if you'd like to chat.
 
-## 🌐 Web Development
+## 💻 Tech & Tools
+
+### 🌐 Web Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,astro,tailwind&theme=dark" />
 </p>
 
-## 🛠️ Tools & Workflow
+### 🛠️ Tools & Workflow
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,git,github,nodejs,docker,neovim,vscode,visualstudio&theme=dark" />
 </p>
 
-## 🖥️ Languages
+### 🖥️ Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,matlab,markdown&theme=dark" />
 </p>
 
-## ⚙️ Operating Systems
+### ⚙️ Operating Systems
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=apple,linux,windows&theme=dark" />
