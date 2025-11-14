@@ -22,17 +22,23 @@ Follow me on [Instagram](https://instagram.com/liiam_dsouza) and [LinkedIn](http
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,astro,tailwind&theme=dark" />
 </p>
 
+---
+
 ### 🛠️ Tools & Workflow
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,git,github,nodejs,docker,neovim,vscode,visualstudio&theme=dark" />
 </p>
 
+---
+
 ### 🖥️ Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,matlab,markdown&theme=dark" />
 </p>
+
+---
 
 ### ⚙️ Operating Systems
 
