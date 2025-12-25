@@ -12,7 +12,7 @@ Hello! I'm Liam D'Souza, a fourth-year software engineering student at the Queen
 
 On my GitHub you'll find repos for some of the smaller side projects I'm working on, larger projects I've completed throughout my university studies, and materials for some of my talks and workshops that I run - covering topics like using the command line for beginners, and the future of artificial intelligence development with practical demos of LLMs, MCP and agentic AI using n8n.
 
-Follow me on [Instagram](https://instagram.com/liiam_dsouza) and [LinkedIn](https://www.linkedin.com/in/liiam-dsouza/) to see what I'm working on, or send me a message if you'd like to chat.
+Follow me on [Instagram](https://instagram.com/liiam_dsouza) and [LinkedIn](https://www.linkedin.com/in/liiam-dsouza/) to see what I'm working on, check out my [website](https://liamdsouza.com), or send me a message if you'd like to chat.
 
 ## 💻 Tech & Tools
 
