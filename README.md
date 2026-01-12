@@ -19,7 +19,7 @@ Follow me on [Instagram](https://instagram.com/liiam_dsouza) and [LinkedIn](http
 ### 🌐 Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,astro,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,astro,tailwind,cloudflare&theme=dark" />
 </p>
 
 ---
@@ -27,7 +27,7 @@ Follow me on [Instagram](https://instagram.com/liiam_dsouza) and [LinkedIn](http
 ### 🛠️ Tools & Workflow
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,git,github,nodejs,docker,neovim,vscode,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=bash,git,github,githubactions,nodejs,npm,pnpm,anaconda,docker,neovim,vscode,visualstudio&theme=dark" />
 </p>
 
 ---
